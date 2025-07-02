@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am current working on Project Ariena
+👋 Hi, I’m Muhammad Hasnain Pirzada
+
+🎓 I’m a Software Engineering graduate with a strong passion for building intelligent systems that solve real-world problems.
+🤖 I’m currently working in the field of Generative AI, building applications that leverage the power of large language models (LLMs).
+🧠 I have hands-on experience in Natural Language Processing (NLP), Machine Learning, and Data Science, with projects spanning from chatbots and transformers to recommendation systems and data-driven applications.
+💻 My tech stack includes Python, PyTorch, TensorFlow, LangChain, Hugging Face, Ollama, OpenAI and Streamlit — along with full-stack experience using tools like FastAPI, Next.js.
+🚀 I'm constantly exploring open-source models, prompt engineering, and building AI-powered apps that are both practical and innovative.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasnain_pirz.da) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hasnain-pirzada-335816201) 
