@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrhasnain&label=Profile%20views&color=0e75b6&style=flat" alt="engrhasnain" /> </p>
 
 # 💫 About Me:
-🎓 I am a Software Engineering graduate with a strong passion for designing and building intelligent systems that solve real-world problems at scale.
-🤖 Currently, I work in the Generative AI space, developing applications that leverage the power of large language models (LLMs) to deliver practical, AI-driven solutions.
-🧠 I have hands-on experience in Natural Language Processing (NLP), Machine Learning, and Data Science, with projects ranging from chatbots and transformer-based models to recommendation systems and data-driven applications.
-💻 My technical skill set includes Python, PyTorch, TensorFlow, LangChain, Hugging Face, Ollama, and OpenAI, complemented by full-stack development experience using FastAPI and Next.js.
-🗄️ I am also experienced in database design and management, working with PostgreSQL, writing optimized SQL queries, and using ORM frameworks (such as SQLAlchemy) to build scalable, maintainable backend systems with clean data models and efficient data access patterns.
-🚀 I actively explore open-source AI models, prompt engineering, and system design, focusing on building robust, scalable, and innovative AI-powered applications that bridge intelligent models with reliable backend infrastructure.
+- 🎓 I am a Software Engineering graduate with a strong passion for designing and building intelligent systems that solve real-world problems at scale.
+- 🤖 Currently, I work in the Generative AI space, developing applications that leverage the power of large language models (LLMs) to deliver practical, AI-driven solutions.
+- 🧠 I have hands-on experience in Natural Language Processing (NLP), Machine Learning, and Data Science, with projects ranging from chatbots and transformer-based models to recommendation systems and data-driven applications.
+- 💻 My technical skill set includes Python, PyTorch, TensorFlow, LangChain, Hugging Face, Ollama, and OpenAI, complemented by full-stack development experience using FastAPI and Next.js.
+- 🗄️ I am also experienced in database design and management, working with PostgreSQL, writing optimized SQL queries, and using ORM frameworks (such as SQLAlchemy) to build scalable, maintainable backend systems with clean data models and efficient data access patterns.
+- 🚀 I actively explore open-source AI models, prompt engineering, and system design, focusing on building robust, scalable, and innovative AI-powered applications that bridge intelligent models with reliable backend infrastructure.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasnain.pirzad_) 
