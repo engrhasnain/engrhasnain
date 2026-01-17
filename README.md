@@ -14,6 +14,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasnain.pirzad_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hasnain-pirzada-335816201) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pirzadahasnain.18@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-%23121212.svg?logo=medium&logoColor=white)](https://medium.com/@mhasnainpirzada/)
+
 
 # 💻 Tech Stack:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
